@@ -38,8 +38,8 @@
 - gravitational wave solutions, polarizations (h_plus, h_cross)
 
 - Effects of gravitational waves
-  - test-masses
-  - interferometer response function
+  - Test-masses
+  - Interferometer response function
 - Creation of gravitational waves
   - Quadrupole formula
 
@@ -52,8 +52,8 @@
   - mass-ratio dependence
 - Merger
 - Ringdown
-  - quasi-normal modes
-  - black hole kicks
+  - Quasi-normal modes
+  - Black hole kicks
 
 
 
@@ -61,23 +61,22 @@
 
 ##### Lecture 6: formation of compact objects
 
-- stellar evolution
-  - chandrashekar limit, white dwarves, neutron stars, black holes
-  - expected BH masses 
-  - metallicity dependence
-- binary stellar evolution
-- globular clusters
-- supermassive black holes
+- Stellar evolution
+  - Chandrashekar limit, white dwarves, neutron stars, black holes
+  - Expected BH masses 
+  - Metallicity dependence
+- Binary stellar evolution
+- Globular clusters
+- Supermassive black holes
 
 ##### Lecture 7: Neutron stars
 
 - ToV equations
 - Equation of state
-- maximum mass, M_max vs. EOS
+- Maximum mass, M_max vs. EOS
 - NS structure
-- pulsars
-- binary pulsars 
-
+- Pulsars
+- Binary pulsars 
 
 
 ### Part 3 -- ground-based interferometric GW detectors
@@ -85,35 +84,34 @@
 ##### Lecture 8: GW interferometers 
 
 - Detector overview
-- sensitivity curves
+- Sensitivity curves
 
 ##### Lecture 9: GW data-analysis
 
-- matched filtering
-- parameter inference
+- Matched filtering
+- Parameter inference
 
 
 
 ##### Lecture 10,11,12:  LIGO/Virgo observations
 
 - Binary black holes
-  - significance of detections
-  - parameter estimation
+  - Significance of detections
+  - Parameter estimation
   - Astrophysics implications
-  - testing GR & fundamental physics implications
+  - Testing GR & fundamental physics implications
 - Binary neutron stars
-
   - GW analysis
-  - masses, tides & EOS
+  - Masses, tides & EOS
   - EM counterpart
     - GRB connection
-    - nucleosynthesis
+    - Nucleosynthesis
 
 ##### Lecture 13: other LIGO/Virgo results
 
-- BH-NS
-- individual neutron stars
-- stochastic GW background
+- Neutron star - black hole binaries
+- Individual neutron stars
+- Stochastic GW background
 
 
 
@@ -121,8 +119,8 @@
 
 ##### Lecture 14: LISA
 
-- mission overview
-- science targets
+- Mission overview
+- Science targets
 
 
 ##### Lecture 15
