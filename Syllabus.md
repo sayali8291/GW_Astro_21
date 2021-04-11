@@ -1,4 +1,4 @@
-## Gravitational Wave Astrophysics 2021 -- course-outline
+## Gravitational Wave Astrophysics 2021
 
 15 weeks, one 90-minute lecture each.   Precise material covered in each lecture subject to adjustments. 
 
